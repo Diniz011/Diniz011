@@ -10,7 +10,8 @@ JavaScript, linguagem C# e banco de dados Oracle.
 - 📫 Como entrar em contato comigo:
 
 Email: ca_diniz911@hotmail.com.br
-Linkedin:
+
+Linkedin: https://www.linkedin.com/in/cauê-diniz-b20b641a4/
 
 
 - ⚡ Curiosidade:
