@@ -19,7 +19,7 @@ Linkedin: https://www.linkedin.com/in/cauê-diniz-b20b641a4/
 
 ## • Curiosidade:
 
-Estudo na FIAP, tenho 21 anos e durante o 1º semestre do segundo ano, desenvolvi vários aplicativos com APIs integradas ao sistema.
+Estudo na FIAP, tenho 21 anos e durante o 2º semestre do segundo ano, desenvolvi vários aplicativos com APIs integradas ao sistema.
 
 
 ## • Ferramentas e Tecnologias
