@@ -3,9 +3,9 @@
 ## Seja Bem vindo ao meu perfil de desenvolvedor no GitHub 👨🏻‍💻
 
 
-## • Atualmente estou aprendendo
+## • Cursos:
 
-JavaScript, linguagem C# e banco de dados Oracle.
+Formado Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (2023-2024), e atualmente cursando a pós-graduação em Engenharia de Software (2025-2028).
 
 
 
@@ -17,9 +17,9 @@ Linkedin: https://www.linkedin.com/in/cauê-diniz-b20b641a4/
 
 
 
-## • Curiosidade:
+## • Habilidades e Competências:
 
-Estudo na FIAP, tenho 21 anos e durante o 2º semestre do segundo ano, desenvolvi vários aplicativos com APIs integradas ao sistema.
+Sou um profissional em início de carreira na área de tecnologia, buscando uma oportunidade para aplicar e aprimorar meus conhecimentos em desenvolvimento de software. Tenho experiência acadêmica e certificações em desenvolvimento mobile (iOS e Android), Back-end e bancos de dados, além de grande interesse em atuar em projetos inovadores que envolvam inteligência artificial, automação e computação em nuvem. Meu objetivo é integrar em uma equipe dinâmica e colaborativa, contribuindo com soluções eficientes e criativas, enquanto continuo minha evolução profissional e acadêmica na área de Engenharia de Software.
 
 
 ## • Ferramentas e Tecnologias
