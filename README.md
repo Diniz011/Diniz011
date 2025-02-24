@@ -3,7 +3,7 @@
 ## Seja Bem vindo ao meu perfil de desenvolvedor no GitHub 👨🏻‍💻
 
 
-## • Cursos:
+## • Formação:
 
 Formado Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (2023-2024), e atualmente cursando a pós-graduação em Engenharia de Software (2025-2028).
 
