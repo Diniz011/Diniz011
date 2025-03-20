@@ -13,7 +13,7 @@ Formado Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (
 
 Email: ca_diniz911@hotmail.com.br
 
-Linkedin: https://www.linkedin.com/in/cauê-diniz-b20b641a4/
+Linkedin: www.linkedin.com/in/dinizcadev
 
 
 
