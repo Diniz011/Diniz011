@@ -3,7 +3,7 @@
 <p align="center">
   Me chamo Cauê Diniz e sou estudante de Engenharia de Software na FIAP. <br>
   Tenho experiência prática em desenvolvimento front-end, mobile (iOS e Android), back-end e bancos de dados. <br>
-  Além disso, já trabalhei em projetos práticos que envolvem criação de interfaces <br>
+  Já trabalhei em projetos práticos que envolvem criação de interfaces <br>
   dinâmicas e consumo de APIs. <br>
   Sempre buscando aliar design funcional à performance. <br>
   Estou em busca de oportunidades para aplicar e expandir minhas habilidades. Ficarei feliz em conversar!
