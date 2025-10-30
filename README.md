@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Cauê Diniz 👋</h1>
+<h1 align="center">Olá 👋🏽, eu sou o Cauê Diniz </h1>
 
 <p align="center">
-  Me chamo Cauê Diniz e sou estudante de Engenharia de Software na FIAP. <br>
+  Sou estudante de Engenharia de Software na FIAP. <br>
   Tenho experiência prática em desenvolvimento front-end, mobile (iOS e Android), back-end e bancos de dados. <br>
   Já trabalhei em projetos práticos que envolvem criação de interfaces dinâmicas e consumo de APIs. <br>
   Sempre buscando aliar design funcional à performance. <br> 
