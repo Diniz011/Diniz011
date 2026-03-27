@@ -9,9 +9,11 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/Diniz011?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" width="100%" />
+  <img src="https://img.shields.io/github/followers/Diniz011?label=Followers&style=for-the-badge&color=radical" />
+  <img src="https://img.shields.io/github/stars/Diniz011?label=Stars&style=for-the-badge&color=radical" />
+  <img src="https://img.shields.io/github/repo-size/Diniz011/Missao-Tio-Patinhas?label=Tio%20Patinhas%20Project&style=for-the-badge&color=radical" />
 </p>
 
 ---
