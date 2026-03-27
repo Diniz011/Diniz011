@@ -11,9 +11,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Diniz011?label=Followers&style=for-the-badge&color=radical" />
-  <img src="https://img.shields.io/github/stars/Diniz011?label=Stars&style=for-the-badge&color=radical" />
-  <img src="https://img.shields.io/github/repo-size/Diniz011/Missao-Tio-Patinhas?label=Tio%20Patinhas%20Project&style=for-the-badge&color=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diniz011&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diniz011&layout=compact&theme=radical" />
 </p>
 
 ---
