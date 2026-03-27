@@ -9,10 +9,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Diniz011&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Diniz011&layout=compact&theme=radical" height="170" />
+  <img src="https://metrics.lecoq.io/Diniz011?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" width="100%" />
 </p>
 
 ---
