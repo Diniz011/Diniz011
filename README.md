@@ -11,8 +11,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diniz011&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" height="170" alt="Cauê's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diniz011&layout=compact&theme=radical&cache_seconds=1800" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diniz011&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diniz011&theme=radical" height="170" />
 </p>
 
 ---
